@@ -9,10 +9,10 @@ Install the package via npm:
 
 ```bash
 # with npm
-npm install --save-dev electron-update-host-adapter
+npm install electron-update-host-adapter
 
 # with yarn
-yarn add --dev electron-update-host-adapter
+yarn add electron-update-host-adapter
 ```
 
 ## API Documentation
