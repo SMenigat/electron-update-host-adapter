@@ -1,6 +1,6 @@
 {
   "name": "electron-update-host-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Drop in replacement for electrons autoUpdater",
   "main": "index.js",
   "scripts": {
