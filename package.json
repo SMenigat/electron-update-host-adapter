@@ -1,0 +1,25 @@
+{
+  "name": "electron-update-host-adapter",
+  "version": "1.0.0",
+  "description": "Drop in replacement for electrons autoUpdater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMenigat/electron-update-host-adapter.git"
+  },
+  "keywords": [
+    "electron",
+    "autoUpdater",
+    "update",
+    "electron-update-host"
+  ],
+  "author": "Samuel Menigat <samuel.menigat@gmail.com>",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/SMenigat/electron-update-host-adapter/issues"
+  },
+  "homepage": "https://github.com/SMenigat/electron-update-host-adapter#readme"
+}
